@@ -53,6 +53,6 @@
 <img src='https://komarev.com/ghpvc/?username=pvm-harshavardhan&title_color=ff0087&label_color=000000&style=flat-square&label=WELCOME+DEVELOPERS+COUNT' />
 -->
 
-<img align='center' height="200px" width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=pvm-harshavardhan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD" alt="pranjay's github stats" />
+<img align='center' height="200px" width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=pvm-harshavardhan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD" alt="harsha's github stats" />
 
 <p align="center">🌟 Check out my repositories below and get in touch for collaborations. 🌟</p>
