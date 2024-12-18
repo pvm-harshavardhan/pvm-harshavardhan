@@ -48,10 +48,8 @@
 <p  align="centre" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pvm-harshavardhan&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact" alt="pvm-harshavardhan" /></p>
 <p  align="centre" ><img src="https://github-readme-stats.vercel.app/api?username=pvm-harshavardhan&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact"></p>
 
-<!--
-<p><img src='https://github-readme-activity-graph.vercel.app/graph?username=pvm-harshavardhan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph'></p>
-<img src='https://komarev.com/ghpvc/?username=pvm-harshavardhan&title_color=ff0087&label_color=000000&style=flat-square&label=WELCOME+DEVELOPERS+COUNT' />
--->
+
+
 
 <img align='center' height="200px" width="380px" src="https://github-readme-streak-stats.herokuapp.com?user=pvm-harshavardhan&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DDDDDD" alt="harsha's github stats" />
 
