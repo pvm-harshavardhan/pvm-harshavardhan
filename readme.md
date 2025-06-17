@@ -36,9 +36,7 @@
 
 <p>
 <a href="https://linkedin.com/in/pvmharsha-vardhan" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/yourusername" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://discord.com/users/yourdiscordid" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://join.slack.com/t/yourworkspace/shared_invite/yourlink" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+<a href="https://x.com/pvm_harsha" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 
