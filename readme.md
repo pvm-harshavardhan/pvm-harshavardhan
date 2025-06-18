@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25">, I'm P VM Harsha Vardhan </h1>
 
-<h6 align="center">A passionate Web developer and AI/ML Enthusiast</h6>
+<h5 align="center">A passionate Web developer and AI/ML Enthusiast</h5>
 
 # 🤵About Me
 
