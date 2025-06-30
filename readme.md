@@ -22,6 +22,8 @@
 
 - 📫 How to reach me **pvmharshavardhan2023@gmail.com**
 
+- 🌐 View my Portfolio at [**My portfolio**](https://pvm-harshavardhan.github.io/pvmportfolio/)
+
 - 👨‍💻 Know my work at [**My repositories**](https://github.com/pvm-harshavardhan?tab=repositories)
 
 - ✨ Fun Facts:
