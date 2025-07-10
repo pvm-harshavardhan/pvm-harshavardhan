@@ -84,7 +84,7 @@
 </p>
 
 # 📊 GitHub Stats:
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pvm-harshavardhan&show_icons=true&locale=en&bg_color=000000&layout=compact&theme=dark&title_color=79ff97&text_color=FFFFFF"alt="pvm-harshavardhan"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pvm-harshavardhan&show_icons=true&locale=en&bg_color=000000&layout=compact&theme=dark&title_color=79ff97&text_color=FFFFFF&count_private=true&token=YOUR_GITHUB_TOKEN" alt="pvm-harshavardhan"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=pvm-harshavardhan&bg_color=000000&theme=dark&title_color=79ff97&include_all_commits=true&text_color=FFFFFF&line&show_icons=true&locale=en&layout=compact&count_private=true&hide=contribs,prs"></p>
 <p><img src="https://streak-stats.demolab.com?user=pvm-harshavardhan&theme=dark&background=000000"alt="Harsha's GitHub Streak Stats" /></p>
 
